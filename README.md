@@ -27,19 +27,3 @@ Open to collaboration — feel free to reach out!
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" alt="Tailwind CSS" />
  
 </p>
-
-
-## 📈 GitHub Stats
-
-
-<div align="center">
-  
-  <a href="https://github.com/janaticamille">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batouuuuu&hide=html,lua,makefile,css,tex,jupyter%20notebook,praat&langs_count=4&theme=darcula" height="200" />
-
-  </a>
-  <a href="https://github.com/janaticamille">
-   <img src="https://github-readme-stats.vercel.app/api/?username=batouuuuu&theme=darcula&show_icons=true&count_private=true&cache_seconds=1800&v=4" height="200" />
-
-  </a>
-</div>
